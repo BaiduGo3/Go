@@ -95,5 +95,9 @@ img{
 	}
 	.bor{
 		margin-bottom: 15px;
+		height: auto;
+	}
+	.tt{
+		font-size: 28px;
 	}
 }
